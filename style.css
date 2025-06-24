@@ -1,0 +1,11 @@
+body {
+    margin: 5%;
+    background-color: black;
+    color: white
+}
+.mainContent {
+    
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 3fr 1fr 1fr;
+
+}
