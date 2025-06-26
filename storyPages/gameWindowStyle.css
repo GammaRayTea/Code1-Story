@@ -1,7 +1,7 @@
 body {
     
    
-    background-color: rgb(69, 10, 10);
+    background-color: rgb(13, 28, 13);
 }
 .mainContent {
     display: grid;
@@ -24,8 +24,8 @@ body {
 }
 .button {
     
-    
-    background-color: rgb(15, 165, 53);
+    color: rgb(143, 211, 143);
+    background-color: rgb(49, 90, 59);
     height: 90px;
    
 }
