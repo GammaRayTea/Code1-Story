@@ -23,7 +23,9 @@ body {
     grid-area: text;
 }
 .button {
-    
+    border: 5px;
+    border-style: inset;
+    border-color: rgb(255, 255, 255);
     color: rgb(143, 211, 143);
     background-color: rgb(49, 90, 59);
     height: 90px;
